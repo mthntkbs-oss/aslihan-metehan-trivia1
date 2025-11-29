@@ -1,0 +1,92 @@
+[
+  {
+    "q": "Türkiye'nin başkenti neresidir?",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dünyanın en büyük okyanusu hangisidir?",
+    "options": [
+      "Hint Okyanusu",
+      "Atlantik Okyanusu",
+      "Pasifik Okyanusu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir yıl kaç gündür (artık yıl değil)?",
+    "options": [
+      "365",
+      "366",
+      "360"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dünyanın en uzun nehri hangisidir?",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Işık hızı yaklaşık olarak kaç km/s'dir?",
+    "options": [
+      "300.000 km/s",
+      "150.000 km/s",
+      "1.000 km/s"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Türkiye'nin para birimi nedir?",
+    "options": [
+      "Euro",
+      "Türk Lirası",
+      "Dolar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hangi gezegen en büyük gezegendir?",
+    "options": [
+      "Dünya",
+      "Jüpiter",
+      "Satürn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Su kaç derecede donar (saf su, deniz seviyesinde)?",
+    "options": [
+      "0°C",
+      "-1°C",
+      "4°C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Programlamada kullanılan 'HTML' neyin kısaltmasıdır?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "Hyperloop Transfer Markup Language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İnsan vücudunda kaç tane kalp vardır?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 0
+  }
+]

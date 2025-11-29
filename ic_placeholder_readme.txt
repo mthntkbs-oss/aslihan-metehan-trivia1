@@ -1,0 +1,1 @@
+Replace this with actual PNGs if you want high-res raster icons. Adaptive XML uses vector foreground/background.
